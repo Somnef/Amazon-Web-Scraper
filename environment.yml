@@ -1,0 +1,8 @@
+name: scrapping_env
+channels:
+  - defaults
+dependencies:
+  - python
+  - ipykernel
+  - pip
+prefix: D:\miniconda3\envs\scrapping_env
