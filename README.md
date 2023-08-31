@@ -4,7 +4,7 @@ A simple web scraper that fetches queries products from [www.amazon.fr](https://
 
 <u>Setup environment:</u>
 ```
-$ conda env create --name envname --file=environments.yml
+$ conda env create --name envname --file=environment.yml
 ```
 
 <u>Usage:</u>
